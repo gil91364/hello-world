@@ -1,5 +1,7 @@
 # hello-world
-My first repository
+Second Try
 Dear Friends,
 
-I love to do hiking and enjoy Chinese Food
+I love to do hiking
+Also scuba diving and eating sea food
+The best is the ling cod when it is baked
